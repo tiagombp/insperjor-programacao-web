@@ -114,6 +114,28 @@ The Great Divide.
 Vanilla JS, http://vanilla-js.com/
 
 
+
+Topic: Programação Web - Aula 1 - Tutorial, parte 1: Ferramentas
+Start Time: Feb 5, 2022 10:26
+
+Meeting Recording:
+https://zoom.us/rec/share/0lPW6rz0pf9hYqOz1Zk7yDBqUVBkBrL1N-0f4ZJBOPHe5lrD5ovxhQ7i00hMNdU0.DwT33FBQKp7U1hkO
+
+Access Passcode: #Insper2022
+
+
+
+Topic: Programação Web - Aula 1 - Tutorial, parte 2: Github Pages
+Start Time: Feb 5, 2022 10:43
+
+Meeting Recording:
+https://zoom.us/rec/share/6H_pCwMH3eLYd3dbPySAqgeDoadgUmJMmOk19D1V1lQiW2_DviMyseSnxx79eS4n.UG0vktigoP_3p-eL
+
+Access Passcode: #Insper2022
+
+
+
+
 # Atividade
 
 VS Studio
@@ -133,3 +155,19 @@ https://pages.github.com/
 
 Custom Domains
 https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+
+
+# Referências
+
+https://css-tricks.com/newsletter/special-edition-web-development-advice/
+
+> 1. Learn what you want. There is enough to learn for a lifetime, so don’t feel like you have to follow the hype. Frameworks and libraries come and go, fundamentals remain, so I would recommend focusing on HTML, CSS and JavaScript if you get to choose (and do frontend).
+
+The thing about fundamentals is that they last. As much as tech has changed in my career, the deep basics of the three classics (HTML, CSS, and JavaScript) have always been there and it feels more and more like they always will be. It doesn’t mean you have to start there. Most don’t, I would guess. I sure didn’t. But finding your way to those fundamentals is a smart move.4
+
+
+https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/
+
+https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+
+https://kittygiraudel.com/2022/01/04/30-frontend-tips/
