@@ -171,3 +171,8 @@ https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/
 https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 
 https://kittygiraudel.com/2022/01/04/30-frontend-tips/
+
+
+## Google Fonts
+
+https://gomakethings.com/google-fonts-and-gdpr/
