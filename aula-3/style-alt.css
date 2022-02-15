@@ -1,0 +1,67 @@
+* {
+    transition: all 2s;
+    border: 1px solid hotpink;
+    box-sizing: border-box;
+}
+
+.styled h1 {
+
+    margin: 0 auto;
+    max-width: 45rem;
+    font-size: 5rem;
+    font-weight: normal;
+
+}
+
+.styled h1, .styled h2 {
+    font-family: Arial;
+}
+
+.styled h1, .styled h2, .styled .byline, .styled .updated-info, .styled .updated-sub {
+
+    text-align: center;
+
+}
+
+.styled h2 {
+
+    color: #777;
+    font-size: 1.25rem;
+    margin: 1.5rem 0;
+
+}
+
+.styled address {
+    font-style: normal;
+    margin-bottom: 1.5rem;
+}
+
+.styled .updated-info {
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-size: 1.25rem;
+}
+
+.styled .updated-sub {
+    margin: 10px auto 0 auto;
+    width: 22rem;
+
+}
+
+.styled .prose {
+    margin: 1rem auto;
+    max-width: 36rem;
+    font-size: 1.2rem;
+}
+
+.styled .opener {
+    margin-top: 50px;
+}
+
+.styled img {
+    border: 1px solid blue;
+    width: 100%;
+    display: block;
+}
+
+

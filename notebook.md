@@ -176,3 +176,4 @@ https://kittygiraudel.com/2022/01/04/30-frontend-tips/
 ## Google Fonts
 
 https://gomakethings.com/google-fonts-and-gdpr/
+
