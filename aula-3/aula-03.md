@@ -110,6 +110,8 @@ Jogo: https://flukeout.github.io/
 2. Box-model
 
 
+exemplo de shorthand overriding 
+
 
 font-style
 font-size
@@ -128,6 +130,11 @@ exemplo prose x  opener
 
 width em elementos inline
 diferença para o inline-block
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
 
 
 https://pudding.cool/projects/vocabulary/index.html
