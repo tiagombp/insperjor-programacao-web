@@ -177,3 +177,53 @@ https://kittygiraudel.com/2022/01/04/30-frontend-tips/
 
 https://gomakethings.com/google-fonts-and-gdpr/
 
+
+Lista  CSS
+
+Stephanie Eckles
+https://twitter.com/5t3ph
+
+Jen Simmons
+https://twitter.com/jensimmons
+
+Miriam Suzanne
+https://twitter.com/TerribleMia
+
+Rachel Andrew
+https://twitter.com/rachelandrew
+
+Michelle Barker
+https://twitter.com/MicheBarks
+
+Codrops
+https://twitter.com/codrops
+
+Jen Kramer
+https://twitter.com/jen4web
+
+Adam Argyle
+https://twitter.com/argyleink
+
+Josh Comeau
+https://twitter.com/JoshWComeau
+
+Una Kravets
+https://twitter.com/Una
+
+Lea Verou
+https://twitter.com/LeaVerou
+
+Amit Sheen
+https://twitter.com/amit_sheen
+
+CSS in Real Life
+https://twitter.com/CSSInRealLife
+
+CSS Tricks
+https://twitter.com/css
+
+Some Antics
+https://twitter.com/SomeAnticsDev
+
+Smashing Magazine
+https://twitter.com/smashingmag
