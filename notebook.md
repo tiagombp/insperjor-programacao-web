@@ -10,6 +10,8 @@ Acesso ao zoom
 Usuário: nataliapmc@insper.edu.br
 Senha: 8^37%ZhuE6j9
 
+#Insper2022
+
 https://medium.com/insper-jor/conhe%C3%A7a-os-projetos-desenvolvidos-por-alunos-do-master-do-insperjor-d1296287c781
 
 ==================================================================
