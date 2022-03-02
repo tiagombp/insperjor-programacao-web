@@ -229,3 +229,11 @@ https://twitter.com/SomeAnticsDev
 
 Smashing Magazine
 https://twitter.com/smashingmag
+
+## Lições para o futuro
+
+Pensar em cada aula com um exercício grande, e introduzir os conceitos com mini-exercícios que contemplem, sempre que possível, pedaços ou componentes do exercício principal.
+
+Introduzir apenas o essencial -- é muita coisa para cobrir, não precisa cobrir tudo.
+
+ideia da Renata: conte~udo extra
