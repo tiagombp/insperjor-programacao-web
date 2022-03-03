@@ -29,6 +29,7 @@ https://projects.susielu.com/viz-palette
 
 https://colorbrewer2.org/
 
+https://www.qhmit.com/css/color/charts/css_color_names_chart.cfm
 
 Lisa, Renata falou dela.
 Dificuldade, tema da marca, mas aih tem as cores dos gráficos.
@@ -59,6 +60,10 @@ Animar filtro de blur?
 https://wattenberger.com/blog/css-percents
 https://smolcss.dev/
 https://dev.to/5t3ph/intro-to-responsive-design-40n3
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+https://cloudfour.com/thinks/responsive-images-101-definitions/
 
 
 
