@@ -237,3 +237,45 @@ Pensar em cada aula com um exercício grande, e introduzir os conceitos com mini
 Introduzir apenas o essencial -- é muita coisa para cobrir, não precisa cobrir tudo.
 
 ideia da Renata: conte~udo extra
+
+Dados a serem compartilhados com os alunos: 
+
+
+
+
+## Avaliações
+
+### Ex 2
+
+Ficou muito bom, Carina!
+
+É bem desafiador mesmo, porque não há caminho só para atingir um mesmo resultado visual. Essa flexibilidade traz muitas coisas boas, mas é um baita desafio no começo. Eu lembro de no começo, nos primeiros projetos que eu publiquei "na vera", de ficar pensando, sobre algumas soluções que eu usava, "não é possível que seja assim que os profissionais façam as coisas!". Eu ficava sempre com a impressão de que estava fazendo uma gambiarra, e de que tinha um jeito mais certo de se fazer. E hoje vejo que é assim mesmo, vejo alguns CSS que eu escrevia no começo cheios de coisas redundantes e desnecessárias, coisas que eu não fazia ideia de como funcionavam, só sabia que tinha funcionado e que ia daquele jeito mesmo.
+
+Ontem tentei explicar um pouco a diferença entre rem e em, não é fácil, é algo que a gente tem que ir praticando para se "convencer". Mas pense que (1) todo valor em unidade relativa vai ser convertido em pixels, em algum momento, e (2) todo documento html tem um valor de tamanho fonte inicial, padrão. Esse valor representa 1rem. Inicialmente, ele vale 16px. Ele pode ser modificado usando o seletor "html" ou o ":root", como mostrei ontem. Então qualquer coisa medida em "rem" ao longo do documento vai ser convertida em pixels sempre usando o tamanho dessa fonte padrão, definida com o seletor "html" ou ":root".
+
+Já o "em" representa o tamanho da fonte do elemento atual, ou seja, o elemento em que vc está usando essa unidade de medida. Se não foi definido um tamanho de fonte para esse elemento, o tamanho vai ser herdado dos elementos "ancestrais". Se em nenhum desses elementos tampouco foi definido um tamanho de fonte, o valor herdado vai ser o do elemento mais ancestral de todos, que é o elemento html. E aí, nesse caso particular, 1em seria igual a 1rem.
+
+No seu arquivo .css, por exemplo, lá na linha 61 vc definiu um tamanho de fonte de 13px para o elemento p.description. Então, toda vez que vc usar "em" nesse elemento, "1em" vai ser convertido para "13px".
+
+Já na linha 46, foi definido um tamanho de fonte de 15px para o elemento p.date. Então qualquer coisa medida em "em" nesse elemento vai ser convertida usando a relação "1em = 15px".
+
+Não sei se ficou claro, qualquer coisa me fala. 
+
+Quanto ao exercício passado, não tem problema ter ficado como comentário não!
+
+Abraço!
+
+
+---
+
+Ficou muito bom, Larissa! Seu CSS ficou bem conciso, e os nomes das classes ficaram bem descritivos (e, como diz o Hadley Wickham, dar bons nomes às coisas é uma das coisas mais difíceis em programação).
+
+Eu sou acrescentaria uma regra para conter o tamanho da imagem, que acaba passando dos limites da tela. Algo como:
+
+img {
+   width: 100%;
+}
+
+E obrigado pelo feedback! :)
+
+---

@@ -45,6 +45,9 @@ Texto justificado: caminho do rato.
 
 Conforto na leitura: corpo x espaço entre linhas x largura das colunas.
 
+text-decoration
+
+
 #### Imagem
 
 Ver object-fit. Fazer um demo para as pessoas mudarem.
