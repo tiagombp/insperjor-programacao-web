@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' docs.google.com">-->
+    <title>Document</title>
+</head>
+<body>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <script>
+        /*
+        fetch('https://sheets.googleapis.com/v4/spreadsheets/1NTG8DDaxlUsrxnrNuGCx09in_FQDHzXyv8MIaneNfGQ/values/Sheet1!A1:C4?key=AIzaSyDwkb6AAuW6qin7gJ-p6bNif60c5vRO54A', { mode : 'no-cors', method : 'GET'})
+        .then(response => {
+            console.log(response);
+            return response.json();
+        })
+        .then(data => {
+      
+             console.log(data);
+      
+        })*/
+
+        d3.csv('https://docs.google.com/spreadsheets/d/1NTG8DDaxlUsrxnrNuGCx09in_FQDHzXyv8MIaneNfGQ/').then(dados =>  {console.log(dados)});
+
+        // https://docs.google.com/spreadsheets/d/1NTG8DDaxlUsrxnrNuGCx09in_FQDHzXyv8MIaneNfGQ/edit#gid=0
+    </script>
+    
+</body>
+</html>

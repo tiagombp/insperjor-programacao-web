@@ -247,6 +247,17 @@ Dados a serem compartilhados com os alunos:
 
 ### Ex 2
 
+Victor 
+`<img src="#" alt="Chart">`, linha 97
+
+Tode
+Questão do line-height do bootstrap 
+
+Alexandre
+Beleza, Bruno. No próximo, busquem fazer de forma individual. Escrever na mão, a partir do zero, é sempre proveitoso para aprender uma linguagem ou tecnologia nova. A ideia nao era ter um resultado perfeito, mas quebrar um pouco a cabeça e experimentar formas de chegar a um resultado visual esperado. Mas o resultado ficou muito bom.
+
+
+
 Ficou muito bom, Carina!
 
 É bem desafiador mesmo, porque não há caminho só para atingir um mesmo resultado visual. Essa flexibilidade traz muitas coisas boas, mas é um baita desafio no começo. Eu lembro de no começo, nos primeiros projetos que eu publiquei "na vera", de ficar pensando, sobre algumas soluções que eu usava, "não é possível que seja assim que os profissionais façam as coisas!". Eu ficava sempre com a impressão de que estava fazendo uma gambiarra, e de que tinha um jeito mais certo de se fazer. E hoje vejo que é assim mesmo, vejo alguns CSS que eu escrevia no começo cheios de coisas redundantes e desnecessárias, coisas que eu não fazia ideia de como funcionavam, só sabia que tinha funcionado e que ia daquele jeito mesmo.
@@ -279,3 +290,19 @@ img {
 E obrigado pelo feedback! :)
 
 ---
+
+
+
+Victor Farias para Todos (7:37 PM)
+professora, adorei esse tutorial
+
+Talita parabenizou ao vivo
+
+Carina: o mais difícil é saber as regras
+
+
+
+
+
+
+Eles só assistem às aulas.
