@@ -1,0 +1,290 @@
+[
+    {
+      "ano": 1975,
+      "valor": 40.5,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "brasil",
+      "name_region": "Brasil",
+      "region": "Brasil"
+    },
+    {
+      "ano": 1989,
+      "valor": 22.7,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "brasil",
+      "name_region": "Brasil",
+      "region": "Brasil"
+    },
+    {
+      "ano": 1996,
+      "valor": 18.9,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "brasil",
+      "name_region": "Brasil",
+      "region": "Brasil"
+    },
+    {
+      "ano": 1996,
+      "valor": 13.4,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "brasil",
+      "name_region": "Brasil",
+      "region": "Brasil"
+    },
+    {
+      "ano": 2006,
+      "valor": 6.7,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "brasil",
+      "name_region": "Brasil",
+      "region": "Brasil"
+    },
+    {
+      "ano": 2019,
+      "valor": 7,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "brasil",
+      "name_region": "Brasil",
+      "region": "Brasil"
+    },
+    {
+      "ano": 1975,
+      "valor": 39,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "norte",
+      "name_region": "Norte",
+      "region": "Norte"
+    },
+    {
+      "ano": 1989,
+      "valor": 23,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "norte",
+      "name_region": "Norte",
+      "region": "Norte"
+    },
+    {
+      "ano": 1996,
+      "valor": 16.6,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "norte",
+      "name_region": "Norte",
+      "region": "Norte"
+    },
+    {
+      "ano": 1996,
+      "valor": 20.7,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "norte",
+      "name_region": "Norte",
+      "region": "Norte"
+    },
+    {
+      "ano": 2006,
+      "valor": 14.8,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "norte",
+      "name_region": "Norte",
+      "region": "Norte"
+    },
+    {
+      "ano": 2019,
+      "valor": 8.4,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "norte",
+      "name_region": "Norte",
+      "region": "Norte"
+    },
+    {
+      "ano": 1975,
+      "valor": 40.8,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "nordeste",
+      "name_region": "Nordeste",
+      "region": "Nordeste"
+    },
+    {
+      "ano": 1989,
+      "valor": 23.8,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "nordeste",
+      "name_region": "Nordeste",
+      "region": "Nordeste"
+    },
+    {
+      "ano": 1996,
+      "valor": 13,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "nordeste",
+      "name_region": "Nordeste",
+      "region": "Nordeste"
+    },
+    {
+      "ano": 1996,
+      "valor": 22.1,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "nordeste",
+      "name_region": "Nordeste",
+      "region": "Nordeste"
+    },
+    {
+      "ano": 2006,
+      "valor": 5.8,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "nordeste",
+      "name_region": "Nordeste",
+      "region": "Nordeste"
+    },
+    {
+      "ano": 2019,
+      "valor": 6.2,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "nordeste",
+      "name_region": "Nordeste",
+      "region": "Nordeste"
+    },
+    {
+      "ano": 1975,
+      "valor": 20.5,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "centro-sul",
+      "name_region": "Centro Sul",
+      "region": "Sul"
+    },
+    {
+      "ano": 1975,
+      "valor": 20.5,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "centro-sul",
+      "name_region": "Centro Sul",
+      "region": "Sudeste"
+    },
+    {
+      "ano": 1975,
+      "valor": 20.5,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "centro-sul",
+      "name_region": "Centro Sul",
+      "region": "Centro Oeste"
+    },
+    {
+      "ano": 1989,
+      "valor": 7.5,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "centro-sul",
+      "name_region": "Centro Sul",
+      "region": "Sul"
+    },
+    {
+      "ano": 1989,
+      "valor": 7.5,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "centro-sul",
+      "name_region": "Centro Sul",
+      "region": "Sudeste"
+    },
+    {
+      "ano": 1989,
+      "valor": 7.5,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "centro-sul",
+      "name_region": "Centro Sul",
+      "region": "Centro Oeste"
+    },
+    {
+      "ano": 1996,
+      "valor": 4.6,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "centro-sul",
+      "name_region": "Centro Sul",
+      "region": "Sul"
+    },
+    {
+      "ano": 1996,
+      "valor": 4.6,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "centro-sul",
+      "name_region": "Centro Sul",
+      "region": "Sudeste"
+    },
+    {
+      "ano": 1996,
+      "valor": 4.6,
+      "metodologia": "estatura x idade (NCHS/OMS 1987)",
+      "região": "centro-sul",
+      "name_region": "Centro Sul",
+      "region": "Centro Oeste"
+    },
+    {
+      "ano": 1996,
+      "valor": 7.2,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "sudeste",
+      "name_region": "Sudeste",
+      "region": "Sudeste"
+    },
+    {
+      "ano": 2006,
+      "valor": 5.7,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "sudeste",
+      "name_region": "Sudeste",
+      "region": "Sudeste"
+    },
+    {
+      "ano": 2019,
+      "valor": 7.3,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "sudeste",
+      "name_region": "Sudeste",
+      "region": "Sudeste"
+    },
+    {
+      "ano": 1996,
+      "valor": 7,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "sul",
+      "name_region": "Sul",
+      "region": "Sul"
+    },
+    {
+      "ano": 2006,
+      "valor": 8.4,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "sul",
+      "name_region": "Sul",
+      "region": "Sul"
+    },
+    {
+      "ano": 2019,
+      "valor": 7,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "sul",
+      "name_region": "Sul",
+      "region": "Sul"
+    },
+    {
+      "ano": 1996,
+      "valor": 10.7,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "centro-oeste",
+      "name_region": "Centro Oeste",
+      "region": "Centro Oeste"
+    },
+    {
+      "ano": 2006,
+      "valor": 5.5,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "centro-oeste",
+      "name_region": "Centro Oeste",
+      "region": "Centro Oeste"
+    },
+    {
+      "ano": 2019,
+      "valor": 6.1,
+      "metodologia": "estatura x idade (OMS 2006)",
+      "região": "centro-oeste",
+      "name_region": "Centro Oeste",
+      "region": "Centro Oeste"
+    }
+]
