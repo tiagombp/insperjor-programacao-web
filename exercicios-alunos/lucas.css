@@ -1,0 +1,13 @@
+.card-container {
+    border: 2px solid #333;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    width: 25rem;
+    padding: .5em;
+}
+
+.card-container > p {
+    margin: 0;
+    line-height: 1.2;
+    font-family: monospace;
+}
