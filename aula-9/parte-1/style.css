@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+div, p {
+    border: 1px solid tomato;
+}
+
+span {
+    background-color: aquamarine;
+    border: 1px solid blue;
+}
+
+p {
+    width: 400px;
+    margin: 0;
+    padding: 1rem;
+    margin: 1rem;
+}
