@@ -301,8 +301,30 @@ Talita parabenizou ao vivo
 Carina: o mais difícil é saber as regras
 
 
+Feedbacks:
+
+Alessandro, sobre os Notebooks. Achei os exercícios interessantes, mas acredito que o de CSS poderia ser um pouco mais desafiador – ou seja, não colocar a resolução logo abaixo. Uma alternativa é criar um notebook mais limpo, para a gente treinar. E outro com as resoluções.
+
+Talita: Uma coisa que eu notei é que algumas partes do notebook estavam resolvidas já, acho que isso aconteceu pq Carol fez  demonstrações em aula. Talvez as demonstrações poderiam ser feitas num arquivo diferente do que a gente reliaza o Fork.
 
 
+Exercício 4(figma) da Ingridy merecia um feedback
 
 
 Eles só assistem às aulas.
+
+Larissa: aula longa não é necessariamente ruim, pois tem o tempo para "aquecer".
+Importante verem os projetos uns dos outros.
+EU: importante mostrar o fluxo completo, fazer live codings, para passar boas práticas. Vários deles ficavam montando e desmontando o servidor do Live Server. Não se habituaram a usar o emmet.
+
+
+repositório: https://github.com/tiagombp/exercicio-guiado
+
+
+https://web.dev/one-line-layouts/
+
+
+
+
+
+https://codepen.io/Gabriela-Soares-Ramalho/pen/NWXMYzy?editors=1100
