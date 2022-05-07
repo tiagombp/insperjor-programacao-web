@@ -1,0 +1,345 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Overpass:100,200,300,400,500,600,700,800,900');
+@import url('https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900');
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Overpass, sans-serif;
+    background-color: #FFF;
+    margin: 0 auto;    
+}
+
+.header{
+    background-color: #007C74;
+    color: #FFF;
+    text-align: center;
+    width: 100%;
+    height: 120px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#content{
+    max-width: 650px;
+    margin: 1em auto;
+}
+
+h1{
+    font-family: Quicksand, sans-serif;
+    font-size: 2.5em;
+    margin: 0;
+    max-width: 650px;
+}
+
+h2{
+    font-family: Overpass, sans-serif;
+    font-size: 1.5em;
+    padding: 0 1em 0 1em;
+}
+
+h3 {
+    font-size: 1.35em;
+    padding: 0 1em 0 1em;
+}
+
+.billionaires{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(2, auto);
+    grid-column-gap: 10px;
+    justify-items: center;
+    padding: 0 1em 0 1em;
+}
+
+.billionaires img {
+    object-fit: cover;
+    max-width: 200px;
+    max-height: 240px;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    
+}
+
+.billionaires img:hover {
+    border: solid 4px #007C74;
+}
+
+.img-caption{ 
+    grid-row:2;
+    font-size: 1.2em;
+    font-weight: 500;
+    margin: 0.5em;
+}
+
+.answer{
+    display: none;
+}
+
+.question{
+    display: none;
+}
+
+p{
+    margin: 2em auto;
+    padding: 0 1em 0 1em;
+    font-size: 1.2em;
+}
+
+ol{
+    margin: 2em auto;
+    padding: 0 1em 0 1em;
+    width: 90%;
+
+}
+
+li {
+    padding: 16px; 
+    display: flex;
+    align-items: center;
+    background: #F2F2F2;
+    margin-bottom: 8px;
+    height: 48px;
+    width: 100%;
+    list-style-type: none;
+    font-size: 1.25em;
+    font-weight: 500;
+  }
+
+li:hover {
+    background: #E9E9E9;
+  }
+
+li.clicked {
+    background: #D81F1F;
+    color: #FFF;
+  }
+  
+li.clicked.correct {
+    background: #007C74;
+    color: #FFF;
+  }
+
+strong.dollar-second {
+    background-color: #007C74;
+    color: #FFF;
+    border-radius: 3px;
+    padding: 0.1em;
+} 
+
+.infographic {
+    /* display: grid; */
+    /* grid-template-columns: repeat(3, auto); */
+    /* margin-left: 20px; */
+    /* margin-right: 0px; */
+    padding: 0 2em 0 2em;
+    margin: 0.5em auto;
+    max-width: 390px;
+  }
+
+.timeline{
+    border-left: solid 12px #007C74;
+    position: relative;
+    height: 1275px;
+}
+
+.info-content-1{
+    max-width: 250px;
+    margin-left: 15%;
+    margin-top: -2px;
+}
+
+.info-content-1::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: -23px;
+    background-color: white;
+    border: 6px solid #007C74;
+    top: -0.5%;
+    left: 0.2%;
+    border-radius: 50%;
+}
+
+.info-content-2{
+    max-width: 250px;
+    margin-left: 15%;
+    margin-top: -10px;
+}
+
+.info-content-2::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: -23px;
+    background-color: white;
+    border: 6px solid #007C74;
+    top: 25.88%;
+    left: 0.2%;
+    border-radius: 50%;
+}
+
+.info-content-3{
+    max-width: 250px;
+    margin-top: -2px;
+    margin-bottom: 100px;
+    margin-left: 15%;
+}
+
+.info-content-3::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: -23px;
+    background-color: white;
+    border: 6px solid #007C74;
+    top: 32.94%;
+    left: 0.2%;
+    border-radius: 50%;
+}
+
+.info-content-4{
+    max-width: 250px;
+    margin-top: -2px;
+    margin-bottom: 280px;
+    margin-left: 15%;
+}
+
+.info-content-4::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: -23px;
+    background-color: white;
+    border: 6px solid #007C74;
+    top: 58.82%;
+    left: 0.2%;
+    border-radius: 50%;
+}
+
+.info-content-5{
+    max-width: 250px;
+    margin-top: -2px;
+    margin-left: 15%;
+}
+
+.info-content-5::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: -23px;
+    background-color: white;
+    border: 6px solid #007C74;
+    top: 99%;
+    left: 0.2%;
+    border-radius: 50%;
+}
+
+.first-arrow{
+    height: 10px;
+    width: 65px;
+    border-bottom: solid 2px #A7A7A7;
+    margin-top: 9px;
+}
+
+.second-arrow{
+    height: 10px;
+    width: 65px;
+    border-top: solid 2px #A7A7A7;
+    margin-top: 146px;
+}
+
+.third-arrow{
+    height: 170px;
+    width: 35.5px;
+    border-top: solid 2px #A7A7A7;
+    border-right: solid 2px #A7A7A7;
+    margin-top: -113px;
+
+}
+
+.third-arrow-sub{
+    height: 113px;
+    width: 30px;
+    border-bottom: solid 2px #A7A7A7;
+    margin-left: 35px;
+    margin-top: -113px;
+
+}
+
+.fourth-arrow{
+    height: 50px;
+    width: 35.5px;
+    border-top: solid 2px #A7A7A7;
+    border-right: solid 2px #A7A7A7;
+    margin-top: -70px;
+}
+
+.fourth-arrow-sub{
+    height: 113px;
+    width: 30px;
+    border-bottom: solid 2px #A7A7A7;
+    margin-left: 35px;
+    margin-top: -113px;
+}
+
+.fifth-arrow{
+    height: 10px;
+    width: 65px;
+    border-bottom: solid 2px #A7A7A7;
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+}
+
+.years{
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+    font-size: 1.15em;
+    background-color: #007C74;
+    color: #FFF;
+    width: 190px;
+    height: 30px;
+    margin: 0 10px 0;
+    padding: 2px 0 1px 2px;
+}
+
+.milestone{
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+    font-size: 1.15em;
+    color: #007C74;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding: 2px 0 1px 10px;
+}
+
+.milestone-description{
+    font-family: Inter, sans-serif;
+    font-weight: 300;
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 2px 0 1px 10px;
+}
+
+.footer hr{
+    margin-top: 300px;
+    font-size: 1em;
+    color: #292929
+
+}
+
+.footer p{
+    font-size: 1em;
+    color: #292929
+
+}
